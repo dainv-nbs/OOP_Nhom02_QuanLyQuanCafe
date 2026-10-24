@@ -2,6 +2,7 @@
 
 Đồ án môn Lập trình hướng đối tượng của Nhóm 2, đề tài số 12 về quản lý quán cà phê.
 Giảng viên hướng dẫn là ThS. Nguyễn Dũng.
+Mã nguồn lưu tại https://github.com/dainv-nbs/OOP_Nhom02_QuanLyQuanCafe.
 
 ## Thành viên
 
