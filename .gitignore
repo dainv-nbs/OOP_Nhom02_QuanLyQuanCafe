@@ -1,0 +1,11 @@
+# file build
+out/
+*.class
+# IDE
+.vscode/
+.idea/
+*.iml
+# file khoa khi dang mo Word/Excel
+~$*
+# README bat buoc nop (gitignore global dang chan README)
+!README.md
