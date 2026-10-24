@@ -1,0 +1,11 @@
+DoUong,M01,Ca phe den,20000.0,S
+DoUong,M02,Ca phe sua,25000.0,M
+DoUong,M03,Bac xiu,25000.0,M
+DoUong,M04,Tra dao cam sa,30000.0,L
+DoUong,M05,Tra sua tran chau,30000.0,M
+DoUong,M06,Nuoc cam,25000.0,S
+DoAn,M07,Banh mi trung,20000.0,cai
+DoAn,M08,Banh flan,15000.0,cai
+DoAn,M09,Mi xao bo,40000.0,dia
+Combo,M10,Combo sang,45000.0,1 ca phe sua + 1 banh mi
+Combo,M11,Combo ban be,110000.0,4 tra dao + 1 dia trai cay
